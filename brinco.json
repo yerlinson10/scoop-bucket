@@ -1,0 +1,21 @@
+{
+    "version": "1.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/yerlinson10/Brinco-CLI/releases/download/1.0.2/brinco_1.0.2_windows_amd64.zip",
+            "bin": [
+                "brinco.exe"
+            ],
+            "hash": "2dd7aec212bb312ba090ce8aa2fc856e11daa6a549efac8192b33d90bdddc9b8"
+        },
+        "arm64": {
+            "url": "https://github.com/yerlinson10/Brinco-CLI/releases/download/1.0.2/brinco_1.0.2_windows_arm64.zip",
+            "bin": [
+                "brinco.exe"
+            ],
+            "hash": "05d67f59d559f2c3f185888940aaac91c93335cc4046a5ec29d478e5e582df16"
+        }
+    },
+    "homepage": "https://github.com/yerlinson10/Brinco-CLI",
+    "description": "Chat CLI P2P en Go con salas y codigos de invitacion"
+}
