@@ -6,14 +6,14 @@
             "bin": [
                 "brinco.exe"
             ],
-            "hash": "73f88f596f17b56261ab8c581f1ade42f898d3b2fadcc501faefbb84832cf52e"
+            "hash": "dd0a606a4e97d5fb81b4b0b11b3509cfe0789ce796cffab00e8ddc85d4e79ffe"
         },
         "arm64": {
             "url": "https://github.com/yerlinson10/Brinco-CLI/releases/download/1.2.0/brinco_1.2.0_windows_arm64.zip",
             "bin": [
                 "brinco.exe"
             ],
-            "hash": "d19aaae729cbf88c5c05721ab07c234bedce5e7877d30aba396592dde0d39e0f"
+            "hash": "a2b6965b16264d4079b355cf3417bf9e7496d9cfe86bd8668bff747ce9dca87a"
         }
     },
     "homepage": "https://github.com/yerlinson10/Brinco-CLI",
