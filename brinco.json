@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yerlinson10/Brinco-CLI/releases/download/1.2.1/brinco_1.2.1_windows_amd64.zip",
+            "url": "https://github.com/yerlinson10/Brinco-CLI/releases/download/1.2.2/brinco_1.2.2_windows_amd64.zip",
             "bin": [
                 "brinco.exe"
             ],
-            "hash": "610a4289ad32cc18afe578bb031bce5034e7dbbc33de6042a3d68e806010338c"
+            "hash": "1699d7cbf84b545d5b57b64271a402f78898c225d2a7ddf49c8a75bcaf6d3fff"
         },
         "arm64": {
-            "url": "https://github.com/yerlinson10/Brinco-CLI/releases/download/1.2.1/brinco_1.2.1_windows_arm64.zip",
+            "url": "https://github.com/yerlinson10/Brinco-CLI/releases/download/1.2.2/brinco_1.2.2_windows_arm64.zip",
             "bin": [
                 "brinco.exe"
             ],
-            "hash": "2e300fdaf73b82766757fb261f5507b53642ccda06c76b342215adb9611b75c7"
+            "hash": "907e43517959d77723d8e261cd68ba321677b86a7f3aba417118ed35eeeff0a8"
         }
     },
     "homepage": "https://github.com/yerlinson10/Brinco-CLI",
